@@ -2,7 +2,7 @@
 const produtos = [
     {
       nome: "Sapato Muy Bella",
-      descricao: "Livre leve e solto, macio e leve",
+      descricao: "Livre leve e solto e macio",
       imagem: "images/shoes.jpg",
       linkWhatsApp: "https://wa.me/31973539925?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20o%20Produto%201"
     },
