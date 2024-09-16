@@ -1,0 +1,32 @@
+/* Estilos para o título */
+h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  /* Layout dos cards de produtos */
+  .product-card {
+    margin-bottom: 20px;
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Alinhamento centralizado para as informações dos produtos */
+  .product-info {
+    text-align: center;
+  }
+  
+  /* Botão de WhatsApp personalizado */
+  .btn-success {
+    background-color: #25D366;
+    border-color: #25D366;
+  }
+  
+  .btn-success:hover {
+    background-color: #1ebe5d;
+    border-color: #1ebe5d;
+  }
+  
